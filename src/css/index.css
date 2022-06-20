@@ -1,0 +1,20 @@
+body {
+    background: url(../images/pic1.jpg) no-repeat;
+}
+
+div {
+    margin: 10px;
+}
+
+#box1 {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
+
+#btn {
+    width: 100px;
+    /* height: 10px; */
+    background-color: #99f;
+    color: #fff;
+}
